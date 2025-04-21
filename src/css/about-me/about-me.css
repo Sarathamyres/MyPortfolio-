@@ -104,7 +104,7 @@
     flex-direction: column;
     max-width: 70ch;
   }
-  .about-me .text h3 {
+  h3 {
     text-align: center;
   }
   .about-me .text .who-iam {
