@@ -7,10 +7,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-<<<<<<< HEAD
   scroll-behavior: smooth;
-=======
->>>>>>> 83c1c7314e5bbe9d1ccf6c0a39059c9eaae64617
 }
 a {
   color: inherit;
@@ -36,10 +33,7 @@ body {
   background: var(--body-background);
   font-family: "Fira Code", "Consolas", "Menlo", "Monaco", monospace;
   color: aliceblue;
-<<<<<<< HEAD
   overflow-x: hidden;
-=======
->>>>>>> 83c1c7314e5bbe9d1ccf6c0a39059c9eaae64617
 }
 html {
   font-size: 62.5%;
