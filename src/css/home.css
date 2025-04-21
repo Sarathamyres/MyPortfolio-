@@ -22,7 +22,10 @@ main .home-container .introduction {
   font-size: 1em;
   max-width: 65ch;
   margin:  1em 0;
+<<<<<<< HEAD
   text-align: justify;
+=======
+>>>>>>> 83c1c7314e5bbe9d1ccf6c0a39059c9eaae64617
 }
 main .home-container a {
   color: greenyellow;

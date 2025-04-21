@@ -23,6 +23,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+<<<<<<< HEAD
   white-space: normal;
   max-width: 90%;
 }
@@ -31,6 +32,9 @@
 }
 .about-me .text .who-iam p {
  text-align: justify;
+=======
+  max-width: 70ch;
+>>>>>>> 83c1c7314e5bbe9d1ccf6c0a39059c9eaae64617
 }
 .about-me .who-iam p:not(:last-child) {
   margin-bottom: 2em;
@@ -43,11 +47,15 @@
   justify-content: center;
   gap: 2em;
   font-size: 2em;
+<<<<<<< HEAD
   flex-wrap: nowrap;
   overflow-x: scroll;
 }
 .list-skills::-webkit-scrollbar {
   height: 3px;
+=======
+  flex-wrap: wrap;
+>>>>>>> 83c1c7314e5bbe9d1ccf6c0a39059c9eaae64617
 }
 .skills-item {
   padding: 10px;
@@ -55,7 +63,10 @@
   text-align: center;
   width: 100px;
   background: rgb(20, 19, 20);
+<<<<<<< HEAD
   margin-bottom: 20px;
+=======
+>>>>>>> 83c1c7314e5bbe9d1ccf6c0a39059c9eaae64617
 }
 .skills-item:hover {
   box-shadow: rgb(173, 255, 47, 0.1) 0px 8px 24px;
@@ -64,9 +75,15 @@
   color: rgb(121, 17, 207);
   font-size: 10px;
 }
+<<<<<<< HEAD
 .skills-item p,
 .skills-item i {
   transition: all 0.4s ease;
+=======
+.skills-item p, .skills-item i{
+  transition: all .4s ease;
+
+>>>>>>> 83c1c7314e5bbe9d1ccf6c0a39059c9eaae64617
 }
 .skills-item:hover p,
 .skills-item:hover i {
@@ -89,9 +106,19 @@
     align-items: center;
     flex-direction: column;
   }
+<<<<<<< HEAD
 
   .about-me .text {
     width: 40%;
+=======
+  .about-me .text {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 70ch;
+>>>>>>> 83c1c7314e5bbe9d1ccf6c0a39059c9eaae64617
   }
   .about-me .text h3 {
     text-align: center;
